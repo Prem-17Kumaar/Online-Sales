@@ -1,7 +1,7 @@
 <html>
   <head>
     <title>Mirabelle Cosmetics Online Orders</title>
-    <link rel="icon" type="image/x-icon" href="D:\Project\HTML\Images\download.png">
+    <link rel="icon" type="image/x-icon" href="download.png">
     <style>
       li a {
       color: black;
